@@ -1,2 +1,5 @@
 # logistic-regression
-Logistic regression playground
+
+A playground for logistic regression.
+
+Use [Pipenv](https://pipenv.pypa.io/en/latest/#) to set up the Python environment.
